@@ -1,1 +1,0 @@
-# village-management-system
